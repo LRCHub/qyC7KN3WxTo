@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ここでキスして。",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2026-02-16T11:51:27.434963Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ここでキスして。",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_ここでキスして。_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Koko de Kiss Shite. [ここでキスして。]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/02_Koko_de_Kiss_Shite._[ここでキスして。]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ここでキスして。",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/03_ここでキスして。_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ここでキスして。",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/04_ここでキスして。_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ここでキスして。 - Koko De Kiss Shite -Kiss Me-",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/05_ここでキスして。_-_Koko_De_Kiss_Shite_-Kiss_Me-_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ここでキスして",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/06_ここでキスして_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ここでキスして。",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/07_ここでキスして。_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ここでキスして。 - Kiss Me",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/08_ここでキスして。_-_Kiss_Me_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ここでキスして。",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/09_ここでキスして。_椎名林檎.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ここでキスして。",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/10_ここでキスして。_椎名林檎.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ここでキスして。",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_ここでキスして。_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ここでキスして。",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_ここでキスして。_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ここでキスして。",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_03_ここでキスして。_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ここでキスして。",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_04_ここでキスして。_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ここでキスして。",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_05_ここでキスして。_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ここでキスして。",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_06_ここでキスして。_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ここでキスして。",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_07_ここでキスして。_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ここでキスして。",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_08_ここでキスして。_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ここでキスして。",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_09_ここでキスして。_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ここでキスして。",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_10_ここでキスして。_椎名_林檎.txt"
+    }
+  ]
+}
